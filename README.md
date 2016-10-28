@@ -1,2 +1,2 @@
 # ROCK-PAPER-AND-SCISSORS
-a game of rock , scissors and paper.
+An interesting game of rock, paper and scissor.
